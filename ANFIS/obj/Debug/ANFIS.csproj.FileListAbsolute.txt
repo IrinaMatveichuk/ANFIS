@@ -1,0 +1,14 @@
+c:\users\user\source\repos\ANFIS\ANFIS\bin\Debug\ANFIS.exe.config
+c:\users\user\source\repos\ANFIS\ANFIS\bin\Debug\ANFIS.exe
+c:\users\user\source\repos\ANFIS\ANFIS\bin\Debug\ANFIS.pdb
+c:\users\user\source\repos\ANFIS\ANFIS\bin\Debug\MySql.Data.dll
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.Form1.resources
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.Properties.Resources.resources
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.csproj.GenerateResource.Cache
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.exe
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.pdb
+c:\users\user\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.Form2.resources
+C:\Users\User\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.Form3.resources
+C:\Users\User\source\repos\ANFIS\ANFIS\obj\Debug\ANFIS.csproj.ResolveComReference.cache
