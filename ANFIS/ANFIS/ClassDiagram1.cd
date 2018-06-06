@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ANFIS.MainForm" Collapsed="true">
+    <Position X="4" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>SCAAcADAAKAAAVAAQSCIEIBCAAAAAISB+SQAAAAAggA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.MarkForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAACAAABAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>MarkForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.ReportForm">
+    <Position X="1.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>cAAAIAByACAgABACBySKaAACAABIAICBiNAAIQAAkAA=</HashCode>
+      <FileName>ReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.NeuralNetwork" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAMAAIQEAAAAwEAABBAAAwEAAQgAwIAkAABEAAAAAA=</HashCode>
+      <FileName>NeuralNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.Data">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.Program" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.RandomNum" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>RandomNum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ANFIS.RuleSet" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBIAQCAkAAkBQEAIAMIiIQAEBCCREBBCgkAULACAQAA=</HashCode>
+      <FileName>RuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
